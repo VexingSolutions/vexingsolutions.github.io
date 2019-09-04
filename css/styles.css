@@ -21,3 +21,11 @@ h1 {
 em {
   color: darkgreen;
 }
+
+.rounded {
+  border-radius: 5%;
+}
+
+.rounded:hover {
+  border-radius: 7%;
+}

@@ -1,7 +1,23 @@
 
-  body {background-color: mintcream;}
+  body {
+    background-color: mintcream;
+    margin-left: 2%;
+   }
 
-  hr {background-color: black; border-style: dotted none none none; border-width: 12px; border-color: mintcream; width: 50%; height: 0; margin: 20px;}
+  hr {
+    background-color: black;
+    border-style: dotted none none none;
+    border-width: 12px;
+    border-color: mintcream;
+    height: 0;
+    margin: 20px;
+    width: 50%;
+  }
 
-h1 {color: #006000; font-family: Arial, Helvetica, sans-serif;}
-em {color: darkgreen;}
+h1 {
+  color: #006000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+em {
+  color: darkgreen;
+}

@@ -1,4 +1,9 @@
 body {
-  background-color: mintcream;
-  margin-left: 2%;
+  margin: 0;
+}
+h1 {
+  margin-top: 0;
+}
+div {
+  background-color: lightgreen;
 }
